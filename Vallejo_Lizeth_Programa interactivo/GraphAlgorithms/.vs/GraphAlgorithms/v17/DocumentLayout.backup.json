@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|c:\\users\\lizet\\downloads\\vallejo_lizeth_programa interactivo\\graphalgorithms\\graphalgorithms\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmbeziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmbeziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\algorithmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\algorithmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\algorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\algorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmbsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmbsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmbsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmbsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmbeziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmbeziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\bsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\bsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\sutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\sutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmscanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmscanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmsutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmsutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmsutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmsutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\cohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\cohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmscanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmscanline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmfloodfill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmfloodfill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\algorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\algorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\algorithmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\algorithmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\graphalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF020495-5573-4354-93A1-8E88B20513B8}|GraphAlgorithms\\GraphAlgorithms.csproj|solutionrelative:graphalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCohenSutherland.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmCohenSutherland.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmCohenSutherland.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmCohenSutherland.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GraphAlgorithms\\FrmCohenSutherland.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:41:58.727Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmDDA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GraphAlgorithms\\FrmDDA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:31:04.447Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmFloodFill.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmFloodFill.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GraphAlgorithms\\FrmFloodFill.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:47:18.557Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmIndex.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmIndex.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmIndex.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmIndex.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "GraphAlgorithms\\FrmIndex.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:35:18.962Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmIndex.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmIndex.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmIndex.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmIndex.cs*",
+              "RelativeToolTip": "GraphAlgorithms\\FrmIndex.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:10:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBezierCurve.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBezierCurve.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmBezierCurve.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBezierCurve.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GraphAlgorithms\\FrmBezierCurve.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:52:08.109Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmBSplineCurve.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBSplineCurve.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmBSplineCurve.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBSplineCurve.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmBSplineCurve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:04:48.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlgorithmOval.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmOval.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\AlgorithmOval.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmOval.cs",
+              "RelativeToolTip": "GraphAlgorithms\\AlgorithmOval.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:06:00.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmOval.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmOval.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmOval.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmOval.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmOval.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:06:25.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmOval.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmOval.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmOval.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmOval.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmOval.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:06:38.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCircle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmCircle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmCircle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:38:26.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCircle.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmCircle.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmCircle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:46:09.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlgorithmCircle.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmCircle.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\AlgorithmCircle.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmCircle.cs",
+              "RelativeToolTip": "GraphAlgorithms\\AlgorithmCircle.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwGUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:45:46.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBSplineCurve.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBSplineCurve.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmBSplineCurve.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmBSplineCurve.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmBSplineCurve.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:03:42.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmBezierCurve.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBezierCurve.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmBezierCurve.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBezierCurve.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmBezierCurve.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:54:59.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BezierCurve.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\BezierCurve.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\BezierCurve.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\BezierCurve.cs",
+              "RelativeToolTip": "GraphAlgorithms\\BezierCurve.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA1wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:57:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BSplineCurve.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\BSplineCurve.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\BSplineCurve.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\BSplineCurve.cs",
+              "RelativeToolTip": "GraphAlgorithms\\BSplineCurve.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:02:58.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SutherlandHodgman.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\SutherlandHodgman.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\SutherlandHodgman.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\SutherlandHodgman.cs",
+              "RelativeToolTip": "GraphAlgorithms\\SutherlandHodgman.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAMwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:02:49.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmScanline.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmScanline.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmScanline.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmScanline.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmScanline.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:28:04.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmCohenSutherland.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmCohenSutherland.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmCohenSutherland.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmCohenSutherland.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmCohenSutherland.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:46:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmSutherlandHodgman.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmSutherlandHodgman.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmSutherlandHodgman.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmSutherlandHodgman.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmSutherlandHodgman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:00:44.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmSutherlandHodgman.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmSutherlandHodgman.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmSutherlandHodgman.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmSutherlandHodgman.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmSutherlandHodgman.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:01:11.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CohenSutherland.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\CohenSutherland.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\CohenSutherland.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\CohenSutherland.cs",
+              "RelativeToolTip": "GraphAlgorithms\\CohenSutherland.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:42:25.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\Figure.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\Figure.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\Figure.cs",
+              "RelativeToolTip": "GraphAlgorithms\\Figure.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:06:00.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmScanline.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmScanline.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmScanline.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmScanline.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmScanline.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:29:28.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmFloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmFloodFill.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmFloodFill.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:53:42.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\Polygon.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\Polygon.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\Polygon.cs",
+              "RelativeToolTip": "GraphAlgorithms\\Polygon.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:40:24.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmFloodFill.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmFloodFill.Designer.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmFloodFill.Designer.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmFloodFill.Designer.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmFloodFill.Designer.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAApwOQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:11:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AlgorithmBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmBresenham.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\AlgorithmBresenham.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmBresenham.cs",
+              "RelativeToolTip": "GraphAlgorithms\\AlgorithmBresenham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:33:52.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AlgorithmDDA.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmDDA.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\AlgorithmDDA.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\AlgorithmDDA.cs",
+              "RelativeToolTip": "GraphAlgorithms\\AlgorithmDDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:23:35.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmDDA.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmDDA.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmDDA.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:14:30.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmBresenham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmBresenham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\GraphAlgorithms\\GraphAlgorithms\\FrmBresenham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:32:51.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\FrmBresenham.cs",
+              "RelativeToolTip": "GraphAlgorithms\\FrmBresenham.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:33:26.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\Program.cs",
+              "RelativeDocumentMoniker": "GraphAlgorithms\\Program.cs",
+              "ToolTip": "C:\\Users\\lizet\\Downloads\\Vallejo_Lizeth_Programa interactivo\\GraphAlgorithms\\GraphAlgorithms\\Program.cs",
+              "RelativeToolTip": "GraphAlgorithms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:26:57.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

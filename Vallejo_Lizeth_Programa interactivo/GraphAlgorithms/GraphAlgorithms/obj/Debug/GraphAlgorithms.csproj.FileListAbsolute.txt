@@ -1,0 +1,98 @@
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.csproj.AssemblyReference.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmIndex.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.Properties.Resources.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.csproj.GenerateResource.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\GraphAlgorithms.exe.config
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\GraphAlgorithms.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\GraphAlgorithms.pdb
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\MaterialSkin.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\QRCoder.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Buffers.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Memory.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.ValueTuple.dll
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Buffers.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Memory.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.ValueTuple.xml
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlg.E7210A2A.Up2Date
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.pdb
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmDDA.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmBresenham.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmCircle.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmFloodFill.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmScanline.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmCohenSutherland.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmSutherlandHodgman.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmBezierCurve.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmBSplineCurve.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmOval.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\GraphAlgorithms.exe.config
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\GraphAlgorithms.exe
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\GraphAlgorithms.pdb
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\MaterialSkin.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\QRCoder.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Buffers.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Memory.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.ValueTuple.dll
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Buffers.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Memory.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\bin\Debug\System.ValueTuple.xml
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.csproj.AssemblyReference.cache
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmBezierCurve.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmBresenham.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmBSplineCurve.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmCircle.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmCohenSutherland.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmFloodFill.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmIndex.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmDDA.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmOval.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmScanline.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.FrmSutherlandHodgman.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.Properties.Resources.resources
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.csproj.GenerateResource.cache
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlg.E7210A2A.Up2Date
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.exe
+C:\Users\lizet\Downloads\Vallejo_Lizeth_Programa interactivo\GraphAlgorithms\GraphAlgorithms\obj\Debug\GraphAlgorithms.pdb
